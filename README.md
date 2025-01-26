@@ -1,3 +1,11 @@
+# Do not use this fork for your projects, etc
+
+I would recommend you to <strong>NOT</strong> use this fork of these core-builds!  
+The only reason I have forked it, is that I can easily make changes, modifiactions and do pull-requests with the original developer of this repository. So far all the modifications I have made have been pulled into the main repository, so there is absolutely no need to use my fork instead. Mine will most likely even fall behind with the original (because I basically only sync it when I want/need to update something and get it pulled).
+  
+Therefor again: Please use the original repository instead: https://github.com/christianhaitian/rk3566_core_builds
+
+  
 # Script to automate the build of various Libretro cores, Nxengine-evo, Retroarch, PPSSPP, ScummVM, Emulationstation-fcamod for use with RK3566 devices (such as the RG503)
 
 ### Assumptions:
